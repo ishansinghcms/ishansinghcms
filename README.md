@@ -1,3 +1,6 @@
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
 # 💫 About Me:
 👋 Hi, I’m Ishan Singh, a passionate developer who loves building scalable and efficient solutions. I enjoy solving complex problems, optimizing performance, and creating seamless user experiences.<br><br>💡 Always eager to learn, collaborate, and contribute to impactful projects.<br><br>🚀 Open to new opportunities and challenges!
 
@@ -21,7 +24,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=ishansinghcms&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ishansinghcms&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ishansinghcms&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
